@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Jogja Budaya</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Hello Home Fragment</string>
+    <string name="help_fragment">Hello from Help Fragment</string>
+    <string name="info_fragment">Hello from info fragment</string>
+    <string name="sugeng_rawuh">Sugeng Rawuh</string>
+    <string name="text_description">Yuk Kita Belajar Budaya Yogyakarta</string>
+    <string name="txtDetailDescription">Tari serimpi memiliki makna yakni sebuah mimpi. contoh seni tari dari Yogyakarta ini, konon pertunjukkannya akan</string>
+    <string name="txtDetailTitle">Tari Adat Yogyakarta</string>
+    <string name="info_text">Jogja Budaya merupakan aplikasi yang dirancang untuk guru anak-anak dan orang tua aplikasi ini berisi budaya-budaya yang ada di Yogyakarta sehingga orang tua dan guru terutama bisa memberikan informasi mengenai budaya yang ada dijogjakarta melalui aplikasi ini.</string>
+
+    <string name="tari_rara_ngigel">Tari Rara Ngigel merupakan tarian daerah Yogyakarta yang bercerita mengenai seorang gadis yang sedang tumbuh dewasa sehingga juga ditarikan oleh para wanita akan tetapi terkadang juga bisa dilakukan berpasangan dengan pria. Tarian ini menjadi penggabungan dari ciri khas Yogyakarta yakni lemah lembut dan juga tegas dimana dalam pertunjukannya, para penari akan memakai busana campuran antara adat budaya Jawa dengan Cina.</string>
+    <string name="tari_rara_ngigel_sumber">https://budaya-indonesia.org/Tari-Rara-Ngigel-Yogyakarta</string>
+
+    <string name="tari_golek_ayun">Tari Golek Ayun-Ayun. Tari Klasik Yogyakarta atau disebut juga Beksan Mataraman sangatlah beragam, salah satunya karena telah ada sejak Keraton Yogyakarta berdiri. Tetap lestari dan semakin banyak macamnya, baik beksan putra maupun beksan putri, baik yang tunggal, berpasangan, maupun yang berkelompok.</string>
+    <string name="tari_golek_ayun_sumber">https://blogkulo.com/tari-golek-ayun-ayun-yogyakarta/</string>
+
+    <string name="tari_kumbang">Tari kumbang merupakan tarian dari Yogyakarta yang bercerita mengenai sepasang kumbang jantan dan betina yang sedang saling berkejaran dan beterbangan seperti sepasang kekasih lalu terbang ke bunga untuk menghisap sari bunga bersama.</string>
+    <string name="tari_kumbang_sumber">https://budaya-indonesia.org/Tari-Kumbang-Yogyakarta</string>
+
+    <string name="tari_arjuna_wiwaha">Tarian ArjunaWiwaha adalah salah satu tarian tradisional yang dipentaskan di Keraton Yogyakarta. Tari Arjuna Wiwaha menceritakan ketika Arjuna yang bertapa di Indrakila mengalami berbagai macam godaan.</string>
+    <string name="tari_arjuna_wiwaha_sumber">https://budaya-indonesia.org/Tari-Arjuna-Wiwaha</string>
+
+    <string name="tari_satrio_watang">Tari satrio watang yang juga disebut dengan tari prawiro watang adalah tarian Yogyakarta yang bercerita tentang kegagahan prajurit pada zaman dulu yang mahir dan lihai ketika memakai senjata atang atau tongkat.</string>
+    <string name="tari_satrio_watang_sumber">https://budaya-indonesia.org/Tari-Satrio-Watang-Yogyakarta</string>
+
+    <string name="tari_klono_rojo">Tarian yogyakarta yang dinamakan kloro rojo atau klana raja bercerita tentang adegan raja yang sedang jatuh cinta pada putri cantik jelita serta mendapat inspirasi dari cerita Wayang Wong. Untuk itu ketika ditarikan akan terlihat gerakan penari yang sebagian besar diangkat dari cerita Wayang Wong tersebut.</string>
+    <string name="tari_klono_rojo_sumber">https://budaya-indonesia.org/Budaya-Tari-Klono-Rojo-Yogyakarta</string>
+
+    <string name="makanan_gudeg">Gudeg (bahasa Jawa: ꦒꦸꦝꦼꦒ꧀, translit. Gudheg) adalah makanan khas Provinsi Yogyakarta dan Jawa Tengah yang terbuat dari nangka muda yang dimasak dengan santan. \n \nPerlu waktu berjam-jam untuk membuat masakan ini. Warna coklat biasanya dihasilkan oleh daun jati yang dimasak bersamaan. Gudeg biasanya dimakan dengan nasi dan disajikan dengan kuah santan kental (areh), ayam kampung, telur, tempe, tahu dan sambal goreng krecek</string>
+    <string name="makanan_gudeg_sumber">https://id.wikipedia.org/wiki/Gudeg</string>
+
+    <string name="makanan_bakpia">Bakpia (bahasa Jawa: ꦧꦏ꧀ꦥꦶꦪ, translit. bakpia) adalah gulungan tepung panggang yang berisi kacang hijau dan gula. \n\nKulit bakpia dibuat dari campuran gula dan garam yang diaduk dalam air hingga larut lalu dibentuk menjadi adonan dengan menambahkan tepung terigu. \n\nIsi bakpia berupa pecahan kacang hijau yang telah direndam beberapa malam, dicuci, dikukus selama satu jam, dihaluskan dan dimasak dengan minyak, garam, dan gula pasir. \n\nAdonan kulit bakpia kemudian diisi dengan kacang hijau dengan bentuk bulat pipih dan dipanggang sekurangnya 20 menit</string>
+    <string name="makanan_bakpia_sumber">https://id.wikipedia.org/wiki/Bakpia</string>
+
+    <string name="makanan_oseng">Oseng-oseng Mercon adalah daging sapi yang dimasak bersama sambel yang sangat banyak sehingga memiliki rasa pedas yang khas</string>
+    <string name="makanan_oseng_sumber">https://annurwisata.com/web/read_blog/makanan-khas-yogyakarta-terpopuler.html</string>
+
+    <string name="makanan_krecek">Krecek atau kerecek (Hanacaraka: ꦏꦽꦕꦼꦏ꧀) adalah kulit sapi yang di keringkan dapat digunakan dalam masakan atau dibuat kerupuk, cara masak menggunakan bumbu-bumbunya sama dengan bumbu-bumbu sambal goreng, hanya kuahnya agak banyak. Di daerah Jawa Tengah yang dimaksud krecek adalah sambal goreng tempe dengan kerupuk kulit.</string>
+    <string name="makanan_krecek_sumber">https://id.wikipedia.org/wiki/Krecek</string>
+
+    <string name="makanan_bakmi">Bakmi jawa atau mi jawa (bahasa Jawa: ꦧꦏ꧀ꦩꦶ​ꦒꦺꦴꦝꦺꦴꦒ꧀, translit. bakmi godhog) adalah bakmi rebus yang dimasak dengan bumbu khas masakan Jawa. Kebanyakan bakmi Jawa adalah bakmi rebus, sehingga di luar negeri (Malaysia dan Singapura) bakmi Jawa ini dikenal dengan sebutana mee rebus, akan tetapi sebenarnya terdapat variasi mi goreng dari bakmi Jawa.</string>
+    <string name="makanan_bakmi_sumber">https://id.wikipedia.org/wiki/Bakmi_jawa</string>
+
+    <string name="makanan_walang">Belalang Goreng adalah makanan tradisional yang terbuat dari bahan dasar Belalang. \n\nMakanan ini memang terlihat aneh karena bahan dasarnya sendiri adalah Belalang. Namun ternyata Belalang Goreng ini memiliki rasa yang lezat dan juga bergizi. \n\nBelalang Goreng ini adalah salah satu makanan tradisional yang sangat terkenal dari Gunung Kidul, Yogyakarta.</string>
+    <string name="makanan_walang_sumber">http://www.negerikuindonesia.com/2015/06/belalang-goreng-makanan-tradisional.html</string>
+    <string name="txt_bercerita">Tari serimpi memiliki makna yakni sebuah mimpi. contoh seni tari dari Yogyakarta ini, konon pertunjukkannya akan membuat para penontonnya seolah sedang berada di dalam mimpi. Tarian ini suasananya cukup mistis sobat, anda akan melihat taburan bunga yang sengaja ditaburkan di lantai untuk menunjang penampilan penari. \n\nTari serimpi memiliki makna yakni sebuah mimpi. contoh seni tari dari Yogyakarta ini, konon pertunjukkannya akan membuat para penontonnya seolah sedang berada di dalam mimpi. Tarian ini suasananya cukup mistis sobat, anda akan melihat taburan bunga yang sengaja ditaburkan di lantai untuk menunjang penampilan penari. \n\nTari serimpi memiliki makna yakni sebuah mimpi. contoh seni tari dari Yogyakarta ini, konon pertunjukkannya akan membuat para penontonnya seolah sedang berada di dalam mimpi. Tarian ini suasananya cukup mistis sobat, anda akan melihat taburan bunga yang sengaja ditaburkan di lantai untuk menunjang penampilan penari. \n\nTari serimpi memiliki makna yakni sebuah mimpi. contoh seni tari dari Yogyakarta ini, konon pertunjukkannya akan membuat para penontonnya seolah sedang berada di dalam mimpi. Tarian ini suasananya cukup mistis sobat, anda akan melihat taburan bunga yang sengaja ditaburkan di lantai untuk menunjang penampilan penari. \n\nTari serimpi memiliki makna yakni sebuah mimpi. contoh seni tari dari Yogyakarta ini, konon pertunjukkannya akan membuat para penontonnya seolah sedang berada di dalam mimpi. Tarian ini suasananya cukup mistis sobat, anda akan melihat taburan bunga yang sengaja ditaburkan di lantai untuk menunjang penampilan penari. \n\n</string>
+</resources>
